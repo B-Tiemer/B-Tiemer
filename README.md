@@ -1,5 +1,5 @@
 ## 👋 Olá, eu sou o @Breno 😊
-- 👀 Tenho interesse em Front end e back end 
+- 👀 Tenho interesse em Front end, back end e Desenvolvedor RPA
 - 🌱 Estou cursando ADS e cursos autodidatas para meu desenvolvimento
 - ✨Eu sou uma pessoa bastante proativa e sempre busco uma forma de sempre de me desenvolver, busco desafios como programador para que posso melhor meu conhecimento,
    não tenho medo de começar alguma programação ou qualquer assunto sou bem iniciativo, gosto de atitude, caso não tiver experiência e precisar eu não recuso de obter o conhecimento. Busco por projetos que precisam de pessoas como eu!
@@ -24,6 +24,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=MongoDB&logoColor=green)
 ![AWS](https://img.shields.io/badge/AWS-yellow?style=for-the-badge&logo=amazon&logoColor=black)
 ![Linux](https://img.shields.io/badge/Linux-yellow?style=for-the-badge&logo=Linux&logoColor=black)
+
 ## GitHub Status!
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=B-Tiemer&theme=tokyonight&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
