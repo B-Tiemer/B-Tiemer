@@ -1,8 +1,8 @@
 ## 👋 Olá, eu sou o @Breno 😊
 - 👀 Tenho interesse em Front end, back end e Desenvolvedor RPA
 - 🌱 Estou cursando ADS e cursos autodidatas para meu desenvolvimento
-- ✨Eu sou uma pessoa bastante proativa e sempre busco uma forma de sempre de me desenvolver, busco desafios como programador para que posso melhor meu conhecimento,
-   não tenho medo de começar alguma programação ou qualquer assunto sou bem iniciativo, gosto de atitude, caso não tiver experiência e precisar eu não recuso de obter o conhecimento. Busco por projetos que precisam de pessoas como eu!
+- ✨Eu sou uma pessoa bastante proativa e sempre busco uma forma de sempre de me desenvolver, busco desafios como programador para que posso melhorar meu conhecimento,
+   não tenho medo de começar alguma programação ou qualquer assunto sou bem iniciativo, gosto de atitude, caso eu não tiver experiência e precisar eu não recuso de obter o conhecimento. Busco por projetos que precisam de pessoas como eu!
 - 👨‍🎓 Eu tenho várias certificações que comprove minhas habilidades, localidade em meu LinkDin!
 - 👅 Idiomas: Inglês = (Intermediário), Português = (Fluente), Espanhol = (Básico), Francês =(Básico).
 
