@@ -11,8 +11,6 @@
 
 ## Conhecimentos em tais programas 
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-purple?style=for-the-badge&logo=css3&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=Python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=JavaScript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=Node.js&logoColor=white)
@@ -32,7 +30,7 @@
   <a href="https://instagram.com/Breno_tiemer" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/Brenotech#0785" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:brenohenriquetiemer14@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/breno-tiemer-47126a24a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="(https://www.linkedin.com/in/breno-h-tiemer-farias-47126a24a/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
 
