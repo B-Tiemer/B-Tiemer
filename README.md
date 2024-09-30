@@ -1,9 +1,9 @@
 ## 👋 Olá, eu sou o @Breno 😊
-- 👀 Tenho interesse em Front end, back end e Desenvolvedor RPA
-- 🌱 Estou cursando ADS e cursos autodidatas para meu desenvolvimento
-- ✨Eu sou uma pessoa bastante proativa e sempre busco uma forma de sempre de me desenvolver, busco desafios como programador para que posso melhorar meu conhecimento,
-   não tenho medo de começar alguma programação ou qualquer assunto sou bem iniciativo, gosto de atitude, caso eu não tiver experiência e precisar eu não recuso de obter o conhecimento. Busco por projetos que precisam de pessoas como eu!
-- 👨‍🎓 Eu tenho várias certificações que comprove minhas habilidades, localidade em meu LinkDin!
+- 👀 Trabalho como Analista de Infraestrutura
+- 🌱 Estou cursando Analise e desenvolvimento de sistema e utilizo cursos autodidatas para me desenvolvimento profissionalmente
+- ✨Eu sou uma pessoa bastante proativa e sempre busco uma forma de sempre me desenvolver, busco desafios como programador para que posso melhorar meu conhecimento,
+   não tenho medo de começar alguma programação ou qualquer assunto sou bem iniciativo, caso eu não tiver experiência e for preciso, eu não recuso de obter o conhecimento. Busco projetos que precisam de pessoas como eu!
+- 👨‍🎓 Eu tenho várias certificações e experiências que comprove minhas habilidades, localidade em meu LinkDin!
 - 👅 Idiomas: Inglês = (Intermediário), Português = (Fluente), Espanhol = (Básico), Francês =(Básico).
 
 
@@ -15,12 +15,8 @@
 ![CSS3](https://img.shields.io/badge/CSS3-purple?style=for-the-badge&logo=css3&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=Python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=JavaScript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=TypeScript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=Node.js&logoColor=white)
 ![Json](https://img.shields.io/badge/Json-black?style=for-the-badge&logo=Json&logoColor=yellow)
-![MYSQL](https://img.shields.io/badge/MYSQL-black?style=for-the-badge&logo=MYSQL&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-black?style=for-the-badge&logo=SQL&logoColor=white)
-![API](https://img.shields.io/badge/API-black?style=for-the-badge&logo=apiamazon&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=MongoDB&logoColor=green)
 ![AWS](https://img.shields.io/badge/AWS-yellow?style=for-the-badge&logo=amazon&logoColor=black)
 ![Linux](https://img.shields.io/badge/Linux-yellow?style=for-the-badge&logo=Linux&logoColor=black)
