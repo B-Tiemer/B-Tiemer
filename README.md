@@ -1,10 +1,10 @@
 ## 👋 Olá, eu sou o @Breno 😊
-- 👀 Trabalho como Analista de Infraestrutura
-- 🌱 Estou cursando Analise e desenvolvimento de sistema e utilizo cursos autodidatas para me desenvolvimento profissionalmente
+
+- 🌱 Estou cursando Analise e desenvolvimento de sistema e utilizo cursos autodidatas
 - ✨Eu sou uma pessoa bastante proativa e sempre busco uma forma de desenvolver profissionalmente, gosto de desafios como desenvolvedor para que possa melhorar meu conhecimento,
    não tenho medo de começar alguma programação ou qualquer assunto sou bem iniciativo, caso eu não tiver experiência e for preciso, eu não recuso de obter o conhecimento. Busco projetos que precisam de pessoas como eu!
 - 👨‍🎓 Eu tenho várias certificações e experiências que comprove minhas habilidades, localidade em meu LinkDin!
-- 👅 Idiomas: Inglês = (Intermediário), Português = (Fluente), Espanhol = (Básico), Francês =(Básico).
+- 🌏 Idiomas: Inglês = (Intermediário), Português = (Fluente), Espanhol = (Básico), Francês =(Básico).
 
 
 
@@ -36,4 +36,4 @@
 
 ## Agradecimento!
 
-Muito obrigado por verificar meu perfil, espero que goste do que viu e que possamos nos conhecer melhor. (☞ﾟヮﾟ)☞
+Muito obrigado por está aqui, espero que goste do que viu e que possamos nos conhecer melhor.
