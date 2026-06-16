@@ -16,7 +16,6 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=JavaScript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=Node.js&logoColor=white)
 ![Json](https://img.shields.io/badge/Json-black?style=for-the-badge&logo=Json&logoColor=yellow)
-![HTML](https://img.shields.io/w3c-validation/:parser).
 ![Linux](https://img.shields.io/badge/Linux-yellow?style=for-the-badge&logo=Linux&logoColor=black)
 
 ## GitHub Status!
