@@ -1,10 +1,11 @@
 ## 👋 Olá, eu sou o @Breno 😊
 
-- 🌱 Estou cursando Analise e desenvolvimento de sistema e utilizo cursos autodidatas
+- 💼 Desenvolvedor Web FullStack
+- 🌱 Estou cursando Analise e desenvolvimento de sistema
 - ✨Eu sou uma pessoa bastante proativa e sempre busco uma forma de desenvolver profissionalmente, gosto de desafios como desenvolvedor para que possa melhorar meu conhecimento,
    não tenho medo de começar alguma programação ou qualquer assunto sou bem iniciativo, caso eu não tiver experiência e for preciso, eu não recuso de obter o conhecimento. Busco projetos que precisam de pessoas como eu!
 - 👨‍🎓 Eu tenho várias certificações e experiências que comprove minhas habilidades, localidade em meu LinkDin!
-- 🌏 Idiomas: Inglês = (Intermediário), Português = (Fluente), Espanhol = (Básico), Francês =(Básico).
+- 🌏 Idiomas: Inglês = (Intermediário), Sueco = (Básico) Português = (Fluente), Espanhol = (Básico), Francês =(Básico).
 
 
 
@@ -15,8 +16,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=JavaScript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=Node.js&logoColor=white)
 ![Json](https://img.shields.io/badge/Json-black?style=for-the-badge&logo=Json&logoColor=yellow)
-![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=MongoDB&logoColor=green)
-![AWS](https://img.shields.io/badge/AWS-yellow?style=for-the-badge&logo=amazon&logoColor=black)
+![HTML](https://img.shields.io/badge/html-black?style=for-the-badge&logo=html&logoColor=green)
 ![Linux](https://img.shields.io/badge/Linux-yellow?style=for-the-badge&logo=Linux&logoColor=black)
 
 ## GitHub Status!
