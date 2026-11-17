@@ -1,8 +1,7 @@
 ## 👋 Olá, eu sou o @Breno 😊
 
-- 💼 Desenvolvedor Web FullStack
 - 🌱 Estou cursando Analise e desenvolvimento de sistema
-- ✨Eu sou uma pessoa bastante proativa e sempre busco uma forma de desenvolver profissionalmente, gosto de desafios como desenvolvedor para que possa melhorar meu conhecimento,
+- ✨Eu sou uma pessoa bastante proativa e sempre busco uma forma de desenvolver profissionalmente, gosto de desafios para que possa melhorar meu conhecimento,
    não tenho medo de começar alguma programação ou qualquer assunto sou bem iniciativo, caso eu não tiver experiência e for preciso, eu não recuso de obter o conhecimento. Busco projetos que precisam de pessoas como eu!
 - 👨‍🎓 Eu tenho várias certificações e experiências que comprove minhas habilidades, localidade em meu LinkDin!
 - 🌏 Idiomas: Inglês = (Intermediário), Sueco = (Básico) Português = (Fluente), Espanhol = (Básico), Francês =(Básico).
